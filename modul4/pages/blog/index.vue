@@ -9,7 +9,7 @@
       <p class="text-gray-600">A cooking school is an institution devoted to education in the art and science of cooking and food preparation. There are many different types of cooking schools around the world, some devoted to training professional chefs, others aimed at amateur enthusiasts, with some being a mixture of the two.</p>
       <br />
       <!-- <a href="/1" class="btn-solid-sm mt-4">For detail 👩🏻‍🍳</a> -->
-      <nuxt-link to="/blog1" class="btn-solid-sm mt-4">For detail 👩🏻‍🍳</nuxt-link>
+      <nuxt-link to="/" class="btn-solid-sm mt-4">For detail 👩🏻‍🍳</nuxt-link>
     </div>
     <div class="bg-green-200 rounded-lg shadow-md p-6">
       <img class="h-40 w-40 mx-auto mb-4" src="12.jpeg" alt="Blog 2">
