@@ -71,8 +71,8 @@
           <div class="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div class="bg-blue-200 rounded-lg shadow-md p-6">
               <img class="h-40 w-40 mx-auto rounded-full mb-4" src="fs.jpeg" alt="John Doe">
-              <h3 class="text-xl font-bold mb-2">fisal</h3>
-              <p class="text-gray-600">5027221029</p>
+              <h3 class="text-xl font-bold mb-2">Muhammad Faishal Rizqy</h3>
+              <p class="text-gray-600">5027221026</p>
             </div>
             <div class="bg-green-200 rounded-lg shadow-md p-6">
               <img class="h-40 w-40 mx-auto rounded-full mb-4" src="st.jpeg" alt="Jane Smith">
@@ -81,8 +81,8 @@
             </div>
             <div class="bg-yellow-200 rounded-lg shadow-md p-6">
               <img class="h-40 w-40 mx-auto rounded-full mb-4" src="r.jpeg" alt="Michael Johnson">
-              <h3 class="text-xl font-bold mb-2">Michael wayne</h3>
-              <p class="text-gray-600">5027221037</p>
+              <h3 class="text-xl font-bold mb-2">Made Gde Krisna Wangsa</h3>
+              <p class="text-gray-600">Tidak tahu</p>
             </div>
           </div>
         </div>
